@@ -12,7 +12,7 @@
           <img :src="drug.image" class="h-24" alt="" />
         </div>
         <p style="font-family: 'Lexend', sans-serif;" class="text-drugText font-semibold mb-1" >{{drug.name}}</p>
-        <p class="text-xs" >{{drug.dosage}}mg</p>
+        <p class="text-xs" >{{drug.dosage}}mg </p>
       </div>
     </div>
   </div>
