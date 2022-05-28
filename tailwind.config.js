@@ -1,0 +1,35 @@
+module.exports = {
+  theme: {
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      white: '#ffffff',
+      purple: '#3f3cbb',
+      midnight: '#121063',
+      metal: '#565584',
+      tahiti: '#3ab7bf',
+      silver: '#ecebff',
+      'bubble-gum': '#ff77e9',
+      bermuda: '#78dcca',
+      greyish: '#F4F6F8',
+      blueish: '#1374FC',
+      quickSearchText: '#425B84',
+      drugText: '#053F63',
+      paracetamol: '#E9FDFD',
+      amoxil: '#E7F1FF',
+      amartem: '#E8F8FF',
+      septrine: '#FFF4F4',
+      green: '#EFFEF4',
+      searchBoxBorder: '#1374FC',
+      gray: '#f3f4f6',
+      black: '#000',
+      grayText: '#C7D0DB',
+    },
+  },
+  variants: {
+    extend: {
+      scale: ['active'],
+      backgroundColor: ['active'],
+    },
+  },
+}
