@@ -1,6 +1,6 @@
 <template>
   <div
-    class="xl:px-28  px-4 pt-10 pb-10 flex flex-col align-center justify-center"
+    class="xl:px-28  px-4 pt-10 pb-10 flex  flex-col align-center justify-center"
   >
     <Nav />
     <QuickSearch />
