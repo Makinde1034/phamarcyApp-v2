@@ -26,10 +26,10 @@ module.exports = {
       grayText: '#C7D0DB',
     },
   },
-  variants: {
-    extend: {
-      scale: ['active'],
-      backgroundColor: ['active'],
-    },
-  },
+  // variants: {
+  //   extend: {
+  //     scale: ['active'],
+  //     backgroundColor: ['active'],
+  //   },
+  // },
 }
