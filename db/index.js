@@ -34,7 +34,7 @@ export const drugs = [
     name: 'Septrin',
     dosage: 600,
     image: 'https://i.postimg.cc/kD1nPKyw/septrine.png',
-    background: 'bg-septrine',
+    background: 'bg-amoxil',
     category: 'pain killers',
     about:
       'Amoxil is used to treat many different types of infection caused by bacteria, such as tonsillitis, bronchitis, pneumonia, and infections of the ear, nose, throat, skin, or urinary tract.',
