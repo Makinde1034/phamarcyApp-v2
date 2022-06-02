@@ -18,7 +18,7 @@ module.exports = {
       paracetamol: '#E9FDFD',
       amoxil: '#E7F1FF',
       amartem: '#E8F8FF',
-      septrine: '#FFE9E9',
+      atrine: '#FFE9E9',
       green: '#EFFEF4',
       searchBoxBorder: '#1374FC',
       gray: '#f3f4f6',
